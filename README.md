@@ -37,7 +37,7 @@ Frequency=2246249 Hz, Resolution=445.1866 ns, Timer=TSC
 
 ```
 System.Numerics.Vector.IsHardwareAccelerated = false.
-BenchmarkDotNet=v0.10.6, OS=Linux
+BenchmarkDotNet=v0.10.6, OS=Linux 4.10.13-1-ARCH
 Processor=Intel Xeon CPU E5-2690 v3 2.60GHz, ProcessorCount=24
 Frequency=10000000 Hz, Resolution=100.0000 ns, Timer=UNKNOWN
   [Host]     : Mono 5.0.0 (Stable 5.0.0.100/9667aa6), 64bit
